@@ -15,21 +15,21 @@ To run the C++ Calculator Program, you need to have the following software insta
 
 ## Installation
 - #### Clone this repository to your local machine:
-'''
+```
 git clone https://github.com/AbdulRehmanMajid/C-Calculator.git
-'''
+```
 - #### Navigate to the project directory:
-'''
+```
 cd C-Calculator
-'''
+```
 - #### Compile the program using your preferred C++ compiler:
-'''
+```
 g++ -o Calc main.cpp
-'''
+```
 - #### Run the program:
-'''
+```
 ./Calc
-'''
+```
 ## Usage
 - #### Start the Program: Upon running the program, the user will be prompted to enter two numbers and select an operation.
 - #### Choose Operation: The user selects an arithmetic operation (addition, subtraction, multiplication, or division).
